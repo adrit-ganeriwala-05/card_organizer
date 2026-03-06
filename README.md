@@ -18,7 +18,6 @@ A production-quality Flutter application for organizing standard playing cards i
 - [Architecture](#architecture)
 - [Dependencies](#dependencies)
 - [Setup & Installation](#setup--installation)
-- [How to Build the APK](#how-to-build-the-apk)
 - [How It Works](#how-it-works)
 - [Testing Checklist](#testing-checklist)
 - [Known Design Decisions](#known-design-decisions)
@@ -315,23 +314,6 @@ On first launch, the app automatically:
 5. Inserts 13 cards per folder (52 total) with correct image URLs
 
 No manual data entry is needed.
-
----
-
-## How to Build the APK
-
-```bash
-# Debug APK (faster build, larger size)
-flutter build apk --debug
-
-# Release APK (optimized, smaller size)
-flutter build apk --release
-```
-
-The APK file will be located at:
-```
-build/app/outputs/flutter-apk/app-release.apk
-```
 
 ---
 
