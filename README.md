@@ -4,8 +4,7 @@ A production-quality Flutter application for organizing standard playing cards i
 
 > **Course:** Mobile App Development — Flutter & Dart  
 > **Assignment:** In-Class Activity 08 — Local Storage with SQLite + Images Part 2  
-> **Due:** 03/05/2026 @ 3:00 PM  
-> **Team:** Adrit Ganeriwala, [Partner Name]
+> **Team:** Adrit Ganeriwala
 
 ---
 
@@ -400,13 +399,3 @@ build/app/outputs/flutter-apk/app-release.apk
 
 ---
 
-## Team Contributions
-
-| Member | Contributions |
-|---|---|
-| Adrit Ganeriwala | *Describe your contributions here* |
-| [Partner Name] | *Describe partner contributions here* |
-
----
-
-*Built with Flutter, Dart, and SQLite for GSU Mobile App Development — Spring 2026*
