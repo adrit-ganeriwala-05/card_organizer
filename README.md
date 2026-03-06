@@ -21,7 +21,6 @@ A production-quality Flutter application for organizing standard playing cards i
 - [How It Works](#how-it-works)
 - [Testing Checklist](#testing-checklist)
 - [Known Design Decisions](#known-design-decisions)
-- [Team Contributions](#team-contributions)
 
 ---
 
